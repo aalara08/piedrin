@@ -29,5 +29,21 @@ namespace piedrota
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void BtnIngresoClick(object sender, EventArgs e)
+		{
+			string nombre = txtName.Text;
+			string correo = "email@example.com";
+			string contrasena = "contraseña1234";
+			
+			if(txtContrasena.Text==contrasena&&txtCorreo.Text==correo)
+			{
+				MessageBox.Show("Bienvenido " + nombre + "!");
+			}
+			else {
+				MessageBox.Show("Un dato no es valido");
+			}
+		}
+		
 	}
 }

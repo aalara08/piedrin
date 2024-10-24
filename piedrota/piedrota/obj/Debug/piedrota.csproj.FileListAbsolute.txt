@@ -1,0 +1,7 @@
+C:\Users\CC2-PC07\piedrin\piedrota\piedrota\bin\Debug\piedrota.exe
+C:\Users\CC2-PC07\piedrin\piedrota\piedrota\bin\Debug\piedrota.pdb
+C:\Users\CC2-PC07\piedrin\piedrota\piedrota\obj\Debug\piedrota.csprojResolveAssemblyReference.cache
+C:\Users\CC2-PC07\piedrin\piedrota\piedrota\obj\Debug\piedrota.MainForm.resources
+C:\Users\CC2-PC07\piedrin\piedrota\piedrota\obj\Debug\piedrota.csproj.GenerateResource.Cache
+C:\Users\CC2-PC07\piedrin\piedrota\piedrota\obj\Debug\piedrota.exe
+C:\Users\CC2-PC07\piedrin\piedrota\piedrota\obj\Debug\piedrota.pdb
